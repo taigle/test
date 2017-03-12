@@ -5,6 +5,6 @@ package txl;
  */
 public class Test {
     public static void main(String[] args) {
-        System.out.println("B的代码2");
+        System.out.println("B的代码");
     }
 }
