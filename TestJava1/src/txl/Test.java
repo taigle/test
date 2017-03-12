@@ -6,6 +6,6 @@ package txl;
 public class Test {
     public static void main(String[] args) {
         System.out.println("B的代码1");
-        System.out.println("A想添加的代码1");
+        System.out.println("A想添加的代码11");
     }
 }
